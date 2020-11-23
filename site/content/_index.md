@@ -1,20 +1,31 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Pay It Forward 316
+subtitle: '"For God so loved the world, that He gave His only begotten Son, that
+  whoever believes in Him shall not perish, but have eternal life." John 3:16'
+image: img/pif31601.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: What We Do
+  text: Our mission is simply to Pay It Forward, as a way of channeling material
+    donations and/or non-perishable goods to other non-profits and missionaries
+    on both sides of the U.S.-Mexico border.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
+  heading: Projects
+  text: >-
+    One of our current projects is a food pantry in the San Carlos Community
+    Center. The project was started in December of 2012 and will go through
+    December 2013.
 
+
+    We are also in the process of starting a non-profit in Mexico. The plan is to start an orphanage in Nuevo Progreso/Las Flores in memory of Regina Olivares, who died in Mexico in 1935. She left behind three daughters that had to fend for themselves, the youngest being 2-year-old Marina Graciela Garza Olivares. The motivation for the orphanage in Mexico is to help children who otherwise would not have the support of a safe environment and for an education, including college. For more information on Niños Milagros de Dios﻿, click here.
+
+
+    In addition, to helping humanity, we have ventured toward helping man's best friend. We have seen that there is a great need for animal rescue, along with spaying and neuturing those unfortunate animals being left to fend for themselves.
+
+
+    We recently received a Pet Adoption Partnership Grant through Pet Smart and are in the process of applying for grants to aid in spaying and neuturing animals in Mexico. 
+products: []
+values:
+  heading: Donations
+  text: If you are interested in making either a monetary or material donation,
+    please contact us. Donate via PayPal.
+---
