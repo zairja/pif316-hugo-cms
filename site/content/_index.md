@@ -2,7 +2,7 @@
 title: Pay It Forward 316
 subtitle: '"For God so loved the world, that He gave His only begotten Son, that
   whoever believes in Him shall not perish, but have eternal life." John 3:16'
-image: img/pif31601.jpg
+image: img/mexikids.jpg
 blurb:
   heading: What We Do
   text: Our mission is simply to Pay It Forward, as a way of channeling material
@@ -22,6 +22,7 @@ intro:
 
 
     In addition to helping humanity, we have ventured toward helping man's best friend. We have seen that there is a great need for animal rescue, along with spaying and neuturing those unfortunate animals left to fend for themselves. We recently received a Pet Adoption Partnership Grant through PetSmart and are applying for grants to aid in spaying and neuturing animals in Mexico. 
+projects: []
 values:
   heading: Donations
   text: If you are interested in making either a monetary or material donation,
