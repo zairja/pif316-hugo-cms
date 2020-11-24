@@ -13,15 +13,18 @@ intro:
   text: >-
     One of our current projects is a food pantry in the San Carlos Community
     Center. The project was started in December of 2012 and will go through
-    December 2013.
-    <br>
-    <br>
+    December 2013. 
+
+
+
     We are also in the process of starting a non-profit in Mexico. The plan is to start an orphanage in Nuevo Progreso/Las Flores in memory of Regina Olivares, who died in Mexico in 1935. She left behind three daughters that had to fend for themselves, the youngest being 2-year-old Marina Graciela Garza Olivares. The motivation for the orphanage in Mexico is to help children who otherwise would not have the support of a safe environment and for an education, including college. For more information on Niños Milagros de Dios﻿, click here.
-    <br>
-    <br>
-    In addition, to helping humanity, we have ventured toward helping man's best friend. We have seen that there is a great need for animal rescue, along with spaying and neuturing those unfortunate animals being left to fend for themselves.
-    <br>
-    <br>
+
+
+
+    In addition, to helping humanity, we have ventured toward helping man's best friend. We have seen that there is a great need for animal rescue, along with spaying and neuturing those unfortunate animals being left to fend for themselves. 
+
+
+
     We recently received a Pet Adoption Partnership Grant through Pet Smart and are in the process of applying for grants to aid in spaying and neuturing animals in Mexico. 
 values:
   heading: Donations
