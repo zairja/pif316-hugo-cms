@@ -4,7 +4,7 @@ logo: /img/treehands2.png
 contact_entries:
   - heading: Mailing Address
     text: |-
-      PayitForward316
+      PayItForward316
                       
       P.O. Box 1932
 
