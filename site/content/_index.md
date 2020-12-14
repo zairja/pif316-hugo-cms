@@ -22,7 +22,11 @@ intro:
 
 
     In addition to helping humanity, we have ventured toward helping man's best friend. We have seen that there is a great need for animal rescue, along with spaying and neuturing those unfortunate animals left to fend for themselves. We recently received a Pet Adoption Partnership Grant through PetSmart and are applying for grants to aid in spaying and neuturing animals in Mexico. 
-projects: []
+projects:
+  - image: img/pif31601.jpg
+    text: Niños Milagros de Dios﻿, meaning "Miracle Children of God" in Spanish, is
+      the name of an orphanage being built in Nuevo Progresso, also known as Las
+      Flores, Mexico.
 values:
   heading: Donations
   text: If you are interested in making either a monetary or material donation,
