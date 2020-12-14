@@ -8,7 +8,9 @@ intro:
     - image: img/stock7.jpg
       text: Here is an update from us.
   heading: Where we've been
-  description: In 2012... we did something!
+  description: Niños Milagros de Dios﻿, meaning "Children Miracles of God" in
+    Spanish, is the name of an orphanage in the process of being built in Nuevo
+    Progresso--also known as Las Flores--Mexico.
 main:
   heading: What we will achieve
   description: We're going to do it!
